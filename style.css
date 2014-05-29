@@ -1,0 +1,15 @@
+/*
+Theme Name: wordmap
+Description: Map points as custom post type
+Author: Sam Matthews
+Author URI: http://mapsam.com/wordmap
+Version: 0.1
+Tags: web development
+*/
+
+#map {
+	display:block;
+	width:600px;
+	height:400px;
+	border:1px solid #000;
+}
